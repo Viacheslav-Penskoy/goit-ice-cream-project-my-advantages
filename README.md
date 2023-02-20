@@ -1,3 +1,5 @@
+Advantages section on https://ultrasoundcode.github.io/goit-ice-cream-project/
+
 # Parcel template
 
 Этот проект был создан при помощи Parcel. Для знакомства и настройки
